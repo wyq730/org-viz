@@ -1,0 +1,171 @@
+﻿部门名,open_department_id,父部门,完整路径,直属人数,部门群
+Marketing,od-14be2d097ef62beb400873860038b5d2,(根),Marketing,3,oc_99bc848fe4dd37e6c53fc46c127486eb
+Legal,od-a9ee5895731b7fffcd8fe7c7c5eae439,(根),Legal,6,oc_a73a6bd046efaf12029ef53879429183
+Finance,od-e577d0b65f30d3d8ae4b07cadb733445,(根),Finance,12,oc_caa8f262113fbdd2589ec38b02420765
+Business Development,od-60a7e7916d32dd9f43c931cc09014431,(根),Business Development,1,oc_7dc382f0f3ca8f876dcc9ed0d53153dd
+Operation,od-1eb2f79ab023fd6e214a7906f9353c4a,(根),Operation,5,oc_1349c97749e14f2ca866981be2472abe
+US-operation,od-abb845096aba54b7e5d5872e88ddf170,(根),US-operation,4,oc_32b3d00b5e89dd982590829d29ce3446
+Investor Relations,od-93acf8af27e1c735facedb7a114a4154,(根),Investor Relations,4,oc_03f5ec55210a546077289bf0f9c8455d
+Warehouse logistics,od-58e643ab5a84a29c39bf5830357e2513,(根),Warehouse logistics,4,oc_e72312f1d6993f6ad2b570db921e5597
+Purchasing,od-78cbe2b8c5081d90523d01f83ac253d3,(根),Purchasing,7,oc_63736331768fc276b2de4befe54db538
+Human Resources,od-b1455bd55f7829d41df5e60dc797f480,(根),Human Resources,3,oc_c5a187a03efe2a330f6df1fe9d4bbd39
+Public Affairs,od-7c2db17f927ff4d6018ebeb7c3e961b9,(根),Public Affairs,8,
+Massive Production,od-900328d9eaffe241e013093840eebd0d,(根),Massive Production,2,oc_ca6af01bd6e510dd3984a7e400db0c00
+Infrastructure,od-3876f003b5d70e0a62dfce4075ad0bf0,(根),Infrastructure,1,oc_86a40f98615ec930eb3c53446b9f1980
+AVP,od-122c87724313ba59e5a81295eda6f5b9,(根),AVP,30,oc_fbdb08f419312605cd789c0ef3279e4e
+AI Safety,od-f0820059620eb7527e9c70142947939d,(根),AI Safety,22,oc_a8838fb88b7e1274dff2a9b22d5b6f98
+Map & DataSim,od-81958f230a2c46e78314cd5fddbf7995,(根),Map & DataSim,1,oc_b83389ef8d6fa46cf5913762b6aa0342
+E2E,od-203866ec85909b6372ae7129b90d63fe,(根),E2E,1,oc_6705b3f829caf925008f212a8400c57c
+售后终端运营部,od-ef95fe731b0fe5bf3cc181f79d48a195,(根),售后终端运营部,2,oc_d9d499eaa4402e8a36c19fc411d6009f
+Efficiency & Resource Operations,od-36eaa0af9e38ef480f3778c499b98056,(根),Efficiency & Resource Operations,9,oc_594c49e3c8582e41187a331156d0f7af
+云舟,od-e12dad9b1596ca5fb698fbe4af315bff,(根),云舟,0,oc_21d98e5a396d0561563b0bd8ff86748a
+数据运营与准出,od-041bceb4e0a89c106d695dbcbb2bfcd5,(根),数据运营与准出,1,
+Superfluid Lab,od-504c4ba1341307cd3776baca52a3922c,(根),Superfluid Lab,17,oc_d60434dfc9df4e1d994ed52be91baace
+Robotaxi BU,od-94cd3d8ccd8f478ce772fb9220c14da0,(根),Robotaxi BU,19,oc_865987f77d668ad174271441ed7c0c03
+营销组,od-f6709e3e5678ef9d4ff3f4554b694154,Marketing,Marketing/营销组,5,oc_59c71144a3bc2c845012186fda8f1d5d
+公关组,od-c4d2b5425a08d59b552676f508e610d2,Marketing,Marketing/公关组,4,oc_8793bf4e86bcbf021a14b27c04d72795
+战略分析,od-f451f3062ee882ab13b74262d7c4fb7c,Business Development,Business Development/战略分析,9,oc_1d3165469114878f29318471923da388
+商务拓展,od-45a32fe08b464dc96d35ba6672e1336d,Business Development,Business Development/商务拓展,11,oc_06973098abfba2b2e7ba9e794b217c27
+新业务筹备组,od-45abaa52978a49fcb98477430cd6a966,Business Development,Business Development/新业务筹备组,0,oc_4f5adeaaf924e99f750d423bc2023b54
+Employer Brand,od-c535d394828fc421f0f2c91dd6e5dc66,Human Resources,Human Resources/Employer Brand,6,oc_ba0305842299c3a7a12d3c51983de05d
+Recruiting,od-eb0555bb3e996ea7d9be62a9b573f27c,Human Resources,Human Resources/Recruiting,7,oc_1ff73a5a2a3130da8698c543201dff47
+SSC,od-772b936f62e24c05c66ee11b946731f0,Human Resources,Human Resources/SSC,5,oc_36675473a24123d3c7df6ae74713cc52
+HRBP,od-cd45f14ca380f2ead16a6de774eff23c,Human Resources,Human Resources/HRBP,5,oc_8656ecc3b9b07dd6b31819e861a151e9
+Project Management,od-82ae846346516cda364ae110c9500d7e,Massive Production,Massive Production/Project Management,1,oc_c7547830386459ca97e035cfef8a0679
+Business Interaction And Visualization,od-e7899cff1b85b65c3bc4438f3021b4ca,Massive Production,Massive Production/Business Interaction And Visualization,1,oc_9fe8f1b734a676591fba4321cfbaff92
+Product,od-4831dbf55fbdd50f1af3c5daf8301b2f,Massive Production,Massive Production/Product,1,oc_e44c17a2e4442596ec8bbcd281d2d995
+Calibration Algorithm,od-4b9039df9fc7bbb0157667c0fdc9f216,Massive Production,Massive Production/Calibration Algorithm,7,oc_fb3fe89f5d24b6ae92b49077119b8ac8
+车辆配置集成,od-5133f6520a8f277b85119f97746e57e6,Massive Production,Massive Production/车辆配置集成,9,oc_326e85ffb60ac142899f2f539265ec18
+Efficient Improving,od-1e74cde0ce08bb887f6f50265100cf43,Massive Production,Massive Production/Efficient Improving,0,oc_7d1f9187c5e920501f92851e3ae5ea6d
+HIL自动化准出,od-86c8ade36e0e29f06b0931087940ee4a,Massive Production,Massive Production/HIL自动化准出,2,oc_f5ac1960d1f17ad1921237db39e779dc
+QTC,od-9c1a5b8fd838f0ac43c3e1b8529e3eca,Massive Production,Massive Production/QTC,1,oc_fe7cee0f8ed0b2d62e96c181107b9906
+ADAS System & Software,od-e574a23787b18da5776c6b6fdfb5b4a3,Massive Production,Massive Production/ADAS System & Software,2,oc_74cdeb66dd96f5b54bbf5dfa2fb018e8
+ADAS TPM,od-44b42906d8bad61c28db3209d277258e,Massive Production,Massive Production/ADAS TPM,7,oc_f5cbecf1c80bf4fbc16976000e7b8371
+整车验证交付,od-08baa00e65507b72d373d30e8b69e981,Massive Production,Massive Production/整车验证交付,1,oc_8ad7a7938f515606205d2391ad547225
+AI Infra,od-d218cee23fd83abe05456523530af362,Infrastructure,Infrastructure/AI Infra,9,oc_14f444c2a2a7d7ae905d7ae09fa5dcac
+Platform Infra,od-399dfec0a58ab6de61482ab05015f2f6,Infrastructure,Infrastructure/Platform Infra,2,oc_a47e765a6843d7419f99326f71904084
+OS & Performance,od-5173ab640b1822661c2460ec294d2c33,Infrastructure,Infrastructure/OS & Performance,4,oc_98cf3bdd662137a4b7e70e6cda2cea20
+Arch & Quality,od-9cd3cfdda3bdb535e66e208ca1761a92,Infrastructure,Infrastructure/Arch & Quality,6,oc_987d0182c6067bd20c8b18013c514237
+CICD & Integration,od-ded43d00e56aff4ebe40e7c948d03615,Infrastructure,Infrastructure/CICD & Integration,9,oc_1a425fd52964e8a43a6328a471bff578
+Algorithm Engineering Platform,od-b54a7c6617322c814e6413681b14d994,Infrastructure,Infrastructure/Algorithm Engineering Platform,11,oc_f87702d3fc26f1b2f47026018f0f4f80
+MLOps Platforms,od-576868bbce30f1b9530dab437aefcd14,Infrastructure,Infrastructure/MLOps Platforms,22,oc_77a4af49394ad597fbf94be894ec1646
+Lateral Safety,od-13d18bfb9845551e2d1120d5a9c89243,AI Safety,AI Safety/Lateral Safety,5,oc_28d9cac95d5edaba1dd5e4c8872d7099
+Simulation Engine,od-957bb8c76c0912e75dcffce0b1549699,Map & DataSim,Map & DataSim/Simulation Engine,9,oc_85e1f67d83fde00cc8a5c8954d6668e6
+Data Generation,od-d1dfff74ea5afd910920b4e267a75e38,Map & DataSim,Map & DataSim/Data Generation,13,oc_558431fc9a07a704b1943b09f8e050d9
+Map,od-038eedcec812c41266c6e28b22f84bd3,Map & DataSim,Map & DataSim/Map,26,oc_9c6cadf47f9d0878257683814c93f793
+Machine Learning Engineering,od-d7e797670dfa3003e79d633ba8b4e305,E2E,E2E/Machine Learning Engineering,1,oc_212b67b76d922d6203d3df3a895366f6
+Onboard&Mining,od-e6f56d8ea83929096fd7eeec295a0709,E2E,E2E/Onboard&Mining,0,oc_9cb606ca1c7420c385422a1cfe9a1da9
+数据产品,od-4d89b79450052e91c672d236284ef3a9,E2E,E2E/数据产品,12,oc_7b77a291f4003f5c4202c73e74b13057
+D2D,od-ff36c02fd239bc05fe575ebc86352498,E2E,E2E/D2D,6,oc_972acc37b501339f112f0e898fa3832d
+Foundation Model,od-c4ac7b6811e76eb402e30f14e236c61c,E2E,E2E/Foundation Model,13,oc_2a718dc24f2694cfb34b58963a3334bb
+售后工程,od-112ecc106599a24dcf0cc44d47f2585a,售后终端运营部,售后终端运营部/售后工程,7,oc_1b09590dc26e8647ace8d6cc71751cc2
+远程诊断,od-3895a2d8a0dc84c5647a3ae3edd58275,售后终端运营部,售后终端运营部/远程诊断,16,
+售后组,od-75e4da5ad14c6e927e6e14485169e31c,云舟,云舟/售后组,1,oc_597c108bdb48e37cdaa5f03642f3aba5
+E2E QA,od-2be19ef74e765bf9c45a495b3933a5eb,数据运营与准出,数据运营与准出/E2E QA,22,oc_cb1568282446e6aad921360c4a21b4d3
+Data Delivery,od-b1b5d898335c3a0f300835b6391b95bb,数据运营与准出,数据运营与准出/Data Delivery,1,
+数据运营组,od-09c8de316e77c9244d6d3d1a53f0a26f,数据运营与准出,数据运营与准出/数据运营组,0,oc_703c4a88f4d1121a1ce4861b6173c162
+行政部,od-47db68fe1eb6f4903475da65342e97fe,SSC,Human Resources/SSC/行政部,7,
+PMO,od-d84fc369ec59bdfd70fc87e646fea4b2,Project Management,Massive Production/Project Management/PMO,1,oc_053bc55072aa85f11bd86ba7645cc80d
+CPM,od-c2422a4fd301deda72702d72cb107ff4,Project Management,Massive Production/Project Management/CPM,7,oc_7550cbde25676fba58df0a72ef5ccc5b
+MPM,od-47cd6813332e7cc099991f371e75b574,Project Management,Massive Production/Project Management/MPM,1,oc_6b146cb37db5b03cdf14181dd029f08e
+BLC,od-7932254f9ae19ecb894994c91de940e5,Business Interaction And Visualization,Massive Production/Business Interaction And Visualization/BLC,3,oc_d74f36c474dd2f1de4dcb8070a323287
+Visualizer,od-65bbfc5c0d3ca3acec0997774bdd5a31,Business Interaction And Visualization,Massive Production/Business Interaction And Visualization/Visualizer,11,oc_43d82e716fe06cb9699cb3a404e35ca9
+座舱产品,od-b6774c0c19ccc0560a217fb541d87363,Business Interaction And Visualization,Massive Production/Business Interaction And Visualization/座舱产品,5,oc_8c482ece2b9950525c83ab0b0143b8d9
+行车产品,od-0fb3b67c5c403a057c4a46c46666d4dc,Product,Massive Production/Product/行车产品,12,oc_66d4bb4c299cd785ad6f54740623097f
+泊车产品,od-09e97fa2f8333883b95a7d86a12823f2,Product,Massive Production/Product/泊车产品,10,oc_87b1ac4239a84056cac556186d84aa88
+主动安全产品,od-f3baed27d1db1c940a39836584a5abc9,Product,Massive Production/Product/主动安全产品,8,oc_b250895283a752a8bb15766b269a5e75
+功能安全产品,od-24573e2d9f4e50ed32c2caa20f02589b,Product,Massive Production/Product/功能安全产品,7,oc_38c303e4f6a02cd20e518bc37fb94589
+信息安全产品,od-238ddb5d355b52b1bf2eaa8d3efc0ce9,Product,Massive Production/Product/信息安全产品,2,oc_07aa859c0fa83ead64f13226788ff364
+产品功能准出,od-abcfa63208e9accd6cfd099bbb95bf55,HIL自动化准出,Massive Production/HIL自动化准出/产品功能准出,1,oc_eaf1bbcf2000679156811310b2e06761
+平台开发与维护,od-73e33ce0c2c0e0506866e71fea5ec75b,HIL自动化准出,Massive Production/HIL自动化准出/平台开发与维护,1,oc_4d348a78ef5e7db6b8649d15073c3866
+系统安全准出,od-5fad89eee8dedb6b53206c6825906188,HIL自动化准出,Massive Production/HIL自动化准出/系统安全准出,1,oc_f4e178fcaf45d22601ba09739643906f
+Testing,od-eff178701bddbd71d2f05a493fff6498,QTC,Massive Production/QTC/Testing,6,oc_4d0aff35196448e131eef5b9805d3abc
+Quality,od-de07ab14be3355f152cf6913f6901865,QTC,Massive Production/QTC/Quality,9,oc_ccc2848fed811711d761cb56ac4a8de8
+问题诊断,od-2ef72892de35e244e7ca3fd9200489d8,QTC,Massive Production/QTC/问题诊断,22,oc_e6cdd278ac61144422cd4b28b146f6ab
+Testing Efficiency,od-9ad660f3b48d30a6846c15f5a635cba4,QTC,Massive Production/QTC/Testing Efficiency,3,oc_c96df1852044de50546bb780933deca7
+Ctrl By Wire,od-985ee98a7c9259b20f877b9cf3488262,ADAS System & Software,Massive Production/ADAS System & Software/Ctrl By Wire,26,oc_008092439cf717154bc5e00ae8a23755
+Sensors,od-ef19a1af6a4cd36fe7ed252c7c4c621f,ADAS System & Software,Massive Production/ADAS System & Software/Sensors,20,oc_766ade9bbbd7779f85356970bf36508a
+SOC Infra,od-194a79e22e7c5073c90a25f341bd36c2,ADAS System & Software,Massive Production/ADAS System & Software/SOC Infra,10,oc_32ff322d8f23be9ea1ee6fdfcfc18848
+MCU Infra,od-c1886598f32a7c2fa21f87befec333cd,ADAS System & Software,Massive Production/ADAS System & Software/MCU Infra,14,oc_85a9d9aa49f3d9619a5c14a6f3f3f216
+Hardware,od-bc0863c2b4f004dae5d1b8a3582f9b93,ADAS System & Software,Massive Production/ADAS System & Software/Hardware,7,oc_62be0e930c34a8722974b0d4cd0cf58f
+Model Optimization & Deployment,od-d0b9ff9f26557b03c9b9aa347319e69b,ADAS System & Software,Massive Production/ADAS System & Software/Model Optimization & Deployment,13,oc_664d77532472fe167e372b5d2b7c6a58
+整车冒烟测试,od-04500c3c28a1dc7068d538265725b637,整车验证交付,Massive Production/整车验证交付/整车冒烟测试,9,oc_5f0aeb74d02e95af496672a3329d8509
+生产交付组,od-16f9f9ce5e570acb7d79b5b24424cb8d,整车验证交付,Massive Production/整车验证交付/生产交付组,5,oc_3efdf3db2c1be227250fdee4f86d693c
+FAE维护组,od-ea695a124b969db50bdf9e79ffe29c76,整车验证交付,Massive Production/整车验证交付/FAE维护组,1,
+IT&Information Security,od-b6692c48dd2edf0a52c0168a0efcbd61,Platform Infra,Infrastructure/Platform Infra/IT&Information Security,1,oc_103b7a1e8dbcbf6113d2a308a7291130
+DR Platform,od-d4cedeab326b2f0b89771121b7f3db99,Platform Infra,Infrastructure/Platform Infra/DR Platform,20,oc_da22cadc7573bbdca5b4cc394d655dc7
+K8s & Storage,od-d54014fe202d8f9d2d67e8da63a0a99b,Platform Infra,Infrastructure/Platform Infra/K8s & Storage,13,oc_e436adc9ae7ee0309526b34578c7e2e0
+网络,od-9c1d7bcf5701a48d6c2061ed507579e1,Platform Infra,Infrastructure/Platform Infra/网络,2,
+OTA,od-ad254096ef530ded809a196bd6062679,CICD & Integration,Infrastructure/CICD & Integration/OTA,3,oc_4b82fd7004d81f6a09d69f9a803d1b51
+通用感知,od-46310b0f29a9f33d4687204e17717f91,Machine Learning Engineering,E2E/Machine Learning Engineering/通用感知,10,oc_dbdff319922313b443fbe20d55dc7859
+红绿灯端到端,od-38da41079bb65865d97819f67bb7ef0b,Machine Learning Engineering,E2E/Machine Learning Engineering/红绿灯端到端,9,oc_d573c6603189e700b18e828c2377ce75
+Path&Trajectory,od-eb6174c6e1f701889a95681c08c273c9,Machine Learning Engineering,E2E/Machine Learning Engineering/Path&Trajectory,11,oc_afbde91d850d7f1b6aa0b8adf5b0a8af
+Motion E2E Model,od-59424a6589120506b22ab14d37b6ab1b,Machine Learning Engineering,E2E/Machine Learning Engineering/Motion E2E Model,1,oc_6a64bc3a08f052acdcdbb00c2a228e5c
+Motion Decision&Prediction,od-1a8752d441f245e96f5f07d4d2d6575e,Machine Learning Engineering,E2E/Machine Learning Engineering/Motion Decision&Prediction,5,oc_d3eaee498a0e1861e1bf309deea34cc6
+World Intelligence Engine,od-3ca325cb78dfe7c054a6d15733870680,Machine Learning Engineering,E2E/Machine Learning Engineering/World Intelligence Engine,4,oc_13c50030e52e258c23c1005d7797a727
+Data mining,od-ac8084a9da91a56c6f80b66a84fedba5,Onboard&Mining,E2E/Onboard&Mining/Data mining,11,oc_bc639c117f42d95da32ee2d2c90d6834
+Onboard,od-932a19e4adcb19720eb3b6e3d576c7cd,Onboard&Mining,E2E/Onboard&Mining/Onboard,25,oc_88dc432cd7ccaec441b940caaaa60544
+Grading,od-110b1674b665799ce7e4fc674f669de3,Onboard&Mining,E2E/Onboard&Mining/Grading,9,oc_5a21db46ef05458e79b342c750f663b9
+远程诊断,od-01bd2e0870e691129643b75fdda819ae,售后组,云舟/售后组/远程诊断,0,oc_8d9573bb460fa6896223dceca16cc0ea
+Safety Officer,od-59a07152dc29d722a4e4d7b2cd14aee2,Data Delivery,数据运营与准出/Data Delivery/Safety Officer,1,oc_cb9e0303197968207363f25d65ac79c4
+标注交付组,od-6d45261e2495dc17081867eed356093b,Data Delivery,数据运营与准出/Data Delivery/标注交付组,59,oc_1e79ec7dd34e146c8eded198073d8d7b
+数据诊断组,od-784f79530674dd7ec2bff2f522215f96,Data Delivery,数据运营与准出/Data Delivery/数据诊断组,18,oc_40e5feedb325f73cd8e0d511a2c95119
+泊车主线,od-cf2ace875907066f5de9be3093aadc55,数据运营组,数据运营与准出/数据运营组/泊车主线,23,oc_6b4f53d00377e96c1d78e9dec2b1b0d8
+行车主线,od-822f6ef6de02a231b7086b49ce7222ff,数据运营组,数据运营与准出/数据运营组/行车主线,0,oc_fd4959c53c17c49fee16519f7a71df9b
+数采后勤组,od-a0f2e9f999cba7641b461b2337798d7a,数据运营组,数据运营与准出/数据运营组/数采后勤组,8,oc_9977fad161fa9dcce62a6bb8abb5dd10
+CPM-GWM,od-5965359a3d626f6e95702ed772c81b81,CPM,Massive Production/Project Management/CPM/CPM-GWM,8,oc_8f8777f69967baabe326956b80535afb
+CPM-GL,od-c318114f520cf99aeeabfe0b83cc066d,CPM,Massive Production/Project Management/CPM/CPM-GL,6,oc_3e71cf6d44520daaf1938d72785c8e58
+MPM-Driving,od-fed3ed04a5a6f55cfc9bfa6ec5f72fb0,MPM,Massive Production/Project Management/MPM/MPM-Driving,4,oc_f524369e36e15ca4fef67653d4a1bb02
+MPM-Parking,od-bb9227835976eb7f6a715f6f35ba25a7,MPM,Massive Production/Project Management/MPM/MPM-Parking,6,oc_4b281bfd2c1ab1016429593b69409c57
+MPM-AISafety,od-774e6dd40eece64eb29bc57dd9f7a366,MPM,Massive Production/Project Management/MPM/MPM-AISafety,5,oc_23f5e38b00ebaadc37b1b0ea60dd90ca
+MPM-DataLoop,od-69bdbcf1a227331a8b236f99430050cc,MPM,Massive Production/Project Management/MPM/MPM-DataLoop,4,oc_1beff506147bfa386c64cb44925edf41
+功能安全开发,od-df1e198e13a2b5bf1c5f20c3459f0db6,BLC,Massive Production/Business Interaction And Visualization/BLC/功能安全开发,5,oc_0de7d7ee42cb0feb1ae50fdd2a3ebdae
+BLC-行车,od-2ef49dd20e5db10dffb1835eee4c0161,BLC,Massive Production/Business Interaction And Visualization/BLC/BLC-行车,7,oc_8e32931be83921836160fe84d0db848c
+BLC-泊车,od-69f2ed6bcd9b4318a8f50d2904638175,BLC,Massive Production/Business Interaction And Visualization/BLC/BLC-泊车,6,oc_2268a16c052e8e221c52a2eb38f0a7d1
+BLC-主动安全,od-0b9c5468d48d2a67d831928a31550f77,BLC,Massive Production/Business Interaction And Visualization/BLC/BLC-主动安全,3,oc_b8a2f87ec2c1170b210cfd68bfe428c7
+数据渲染,od-cd20c8b1f519d3e2c49738a568b78e62,BLC,Massive Production/Business Interaction And Visualization/BLC/数据渲染,3,oc_e6df70630d54696651367375e406e159
+产品功能准出-行车,od-165226a3f35bd3c76a0ab058bb0aa4a2,产品功能准出,Massive Production/HIL自动化准出/产品功能准出/产品功能准出-行车,8,oc_17bb0072033ed55a806d4755b52c9dd2
+产品功能准出-泊车,od-dbc38de3f8e67a63f8d7fba397ec04f8,产品功能准出,Massive Production/HIL自动化准出/产品功能准出/产品功能准出-泊车,11,oc_712e0ade5b989688363bed679ca61d06
+产品功能准出-主动安全,od-3fb2d9d4dfa0c4a2f0d03604bacdb811,产品功能准出,Massive Production/HIL自动化准出/产品功能准出/产品功能准出-主动安全,7,oc_5caf4391a8e6801566e951a620a0f97d
+HIL开发,od-c777c4a5bb55898536bb83b07fa62047,平台开发与维护,Massive Production/HIL自动化准出/平台开发与维护/HIL开发,8,oc_8723628406779e43807b36134362bd15
+软测框架开发,od-613b7942d00d45f31f8881c09bfaa1fe,平台开发与维护,Massive Production/HIL自动化准出/平台开发与维护/软测框架开发,5,oc_ccc97c7964f0a85831c1b530d0d835bc
+HIL运维,od-621076b70a6b23c3554708710c0c75bc,平台开发与维护,Massive Production/HIL自动化准出/平台开发与维护/HIL运维,2,oc_62726bbe6ab7981dddb8b3e210d2b9f7
+系统准出,od-38f6eac6d0f3b2160e6285cf84a0c952,系统安全准出,Massive Production/HIL自动化准出/系统安全准出/系统准出,7,oc_e6d9dc52269d8b3c2800085035dfb2f3
+功能安全准出,od-a7a7b99b769a4d03baf0631168fa218b,系统安全准出,Massive Production/HIL自动化准出/系统安全准出/功能安全准出,10,oc_7f193c53323153fc0e72bf20fc4b4e09
+行车功能组,od-5b078a6f58ec1f0f74e4d9f085c661d4,Testing,Massive Production/QTC/Testing/行车功能组,2,oc_e69d571222b3bf09a7e978b531ec26d5
+泊车功能组,od-4f4b15b17388913b83955fdd9e354efd,Testing,Massive Production/QTC/Testing/泊车功能组,0,oc_6054aa4b4dc18c97477e37d987620937
+Adas&整车功能组,od-b6bcb553c1f45952fbef999a7e568479,Testing,Massive Production/QTC/Testing/Adas&整车功能组,9,oc_9eebddee5e8c41a77fce14a0c8966a84
+交付车型测试,od-7159efe97933d9c8d984c428c6c771ab,Testing,Massive Production/QTC/Testing/交付车型测试,32,oc_078ddf7da88cc379d1241f66fa846e2f
+生产线控组,od-eb4dabfaf7e64d906b4edbe1c93f02c7,生产交付组,Massive Production/整车验证交付/生产交付组/生产线控组,13,oc_e9b31c2233303a08148815de0c4287b8
+生产改装组,od-d73c97fc0c2733a1098ea9a375931c52,生产交付组,Massive Production/整车验证交付/生产交付组/生产改装组,13,oc_b48b661373df3abeca70a64ffa3d3319
+FAE产线组,od-e39664b83f4924e9e5988df87a8912e2,FAE维护组,Massive Production/整车验证交付/FAE维护组/FAE产线组,22,oc_32d628ec090828bb60a1f5a4949a97e8
+FAE内部组,od-3a8f5e1c920f508c0596bb2c33e7665a,FAE维护组,Massive Production/整车验证交付/FAE维护组/FAE内部组,11,oc_51c6efa9507179a8c47f8cb92081b569
+FAE客户组,od-7b2967eb1d6c03ed6d4e6077a499f578,FAE维护组,Massive Production/整车验证交付/FAE维护组/FAE客户组,7,oc_3408129a25243b74f88632ec04238537
+IT,od-3b30c068c2a5b0305051af27ff96d478,IT&Information Security,Infrastructure/Platform Infra/IT&Information Security/IT,9,
+信息安全,od-47814703bf31f0d38ad29ead92f276f8,IT&Information Security,Infrastructure/Platform Infra/IT&Information Security/信息安全,3,
+基础模型,od-e866662a3264ce1ddbc16227f0c56eb3,通用感知,E2E/Machine Learning Engineering/通用感知/基础模型,2,oc_ee247580de99cd216aef603c7ee6b453
+Det,od-6bcdcfbcf13abbd8a8b4568b3764e6bb,通用感知,E2E/Machine Learning Engineering/通用感知/Det,11,oc_9cc89aec53b4c01c832ee411ad002304
+Occ,od-900ca5b2d29bc61495afb23257f28711,通用感知,E2E/Machine Learning Engineering/通用感知/Occ,7,oc_8a286704ddd38c182624bbbaf176f86a
+RL,od-8a4a5c94de4836cfa391b998e3ea0ee6,Motion E2E Model,E2E/Machine Learning Engineering/Motion E2E Model/RL,3,oc_a10022e31d93341da9ae816c5c93629d
+Base Motion Model,od-35e66a6039b278d3abe9ba42ca86099d,Motion E2E Model,E2E/Machine Learning Engineering/Motion E2E Model/Base Motion Model,6,oc_f1b54c8c836b73519e524f2638c5dc76
+Mining Infra,od-218e0aed59d56f2e4ccfb1a9021d21a2,Data mining,E2E/Onboard&Mining/Data mining/Mining Infra,11,oc_81df9be160e756fbbe1407b12353e5c1
+Training Data Engineering,od-42cc07366d50dda914873126466f0276,Data mining,E2E/Onboard&Mining/Data mining/Training Data Engineering,8,
+商务运营组,od-d80b9a49a16be18fb503cba1027eff38,Safety Officer,数据运营与准出/Data Delivery/Safety Officer/商务运营组,3,
+Robotaxi运营组,od-5e1548d7366439cc5d4c2c4af69a32c8,Safety Officer,数据运营与准出/Data Delivery/Safety Officer/Robotaxi运营组,21,
+车管后勤组,od-e820432183e9189957b1fa949e59bb16,Safety Officer,数据运营与准出/Data Delivery/Safety Officer/车管后勤组,6,
+项目采集组,od-8fbeef2f9999ff939aee57a1e29351a4,Safety Officer,数据运营与准出/Data Delivery/Safety Officer/项目采集组,5,oc_6ddc89391a805c613d757c684a3f43f8
+量产功能交付组,od-be30c9201d27349c425025e0bead7f5e,Safety Officer,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组,0,oc_bac58e5941d540491571d2fbbb3bfe60
+研发测试,od-eebdf508c86769999bc8604d4dd3a893,行车主线,数据运营与准出/数据运营组/行车主线/研发测试,16,oc_4c38798ddcf7b4c43a9ec16fa87ff381
+行车二组,od-442bf45733718b88d7836fc800f97292,行车主线,数据运营与准出/数据运营组/行车主线/行车二组,21,oc_707787e7c6ff7a27e99b3400758bfa09
+行车三组,od-7f4b05fc31c97c64334a3e1f7a6bc8ee,行车主线,数据运营与准出/数据运营组/行车主线/行车三组,20,oc_c8d7fdbe63b2387caabc9e595cb517d5
+行车四组,od-c3b0c3f96a5ab48756ac90bb8e75c7e5,行车主线,数据运营与准出/数据运营组/行车主线/行车四组,16,oc_442ce3f755a8bd5661d342fccc3dd27f
+行车一组,od-557f9dbe944d1d16d153afc8a7a3d590,行车主线,数据运营与准出/数据运营组/行车主线/行车一组,17,oc_8ace0063ab0d323cc204ef7886e41876
+城区测试组,od-f572a900060d7df2d692dd2937d1560c,行车功能组,Massive Production/QTC/Testing/行车功能组/城区测试组,8,oc_28730af63dcd66ebb177dd19df44b7ae
+高快测试组,od-c8bc852772e95256626925f9e302c22d,行车功能组,Massive Production/QTC/Testing/行车功能组/高快测试组,8,oc_9c71eaf7376dfde1344829e9c280e22f
+基础泊车组,od-f814dfb68140791702e3e0914b767b18,泊车功能组,Massive Production/QTC/Testing/泊车功能组/基础泊车组,7,oc_100cb730fd03bcacc648cf206442975f
+高阶泊车组,od-da21cb7ddbb821585b4490e4f40deeb4,泊车功能组,Massive Production/QTC/Testing/泊车功能组/高阶泊车组,0,oc_93fd1100601060af1deab75c808e1706
+杭州交付组,od-a3f51a067412a48785dc71dd8ed12cc1,量产功能交付组,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组/杭州交付组,1,
+深圳交付组,od-bf2e7eec7ef9a6e294eaa0af07e4ea6b,量产功能交付组,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组/深圳交付组,24,oc_f46ec115c2dccb374f48ada5c683fa01
+宁波交付组,od-9fdc44706bc7c0185a37786cf4d8eefa,量产功能交付组,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组/宁波交付组,1,oc_4ed0b75f5961e9bd1907f32498db4603
+保定交付组,od-f5bb766e5cc8086150c7c311440907cc,量产功能交付组,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组/保定交付组,27,oc_7915247f129eefb4167066587e5ce9a8
+重庆交付组,od-0bed54ee603b58c1b5a3005fbc098257,量产功能交付组,数据运营与准出/Data Delivery/Safety Officer/量产功能交付组/重庆交付组,4,oc_c7f5e85fb3c0301b42ecb0171a4d7154

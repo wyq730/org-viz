@@ -1,0 +1,478 @@
+[
+  {
+    "node": "demo-0",
+    "name": "林知远",
+    "parent": "",
+    "abstract": [
+      "组织与团队",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "负责人",
+      "邮箱": "member0@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-1",
+    "name": "陈星河",
+    "parent": "demo-0",
+    "abstract": [
+      "组织与团队",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member1@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-2",
+    "name": "许亦舟",
+    "parent": "demo-0",
+    "abstract": [
+      "组织与团队",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member2@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-3",
+    "name": "叶青",
+    "parent": "demo-0",
+    "abstract": [
+      "组织与团队",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member3@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-4",
+    "name": "周予安",
+    "parent": "demo-1",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member4@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-5",
+    "name": "宋时雨",
+    "parent": "demo-1",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member5@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-6",
+    "name": "苏明",
+    "parent": "demo-1",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member6@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-7",
+    "name": "江澄",
+    "parent": "demo-2",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member7@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-8",
+    "name": "团队伙伴 1",
+    "parent": "demo-2",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member8@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-9",
+    "name": "团队伙伴 2",
+    "parent": "demo-2",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member9@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-10",
+    "name": "团队伙伴 3",
+    "parent": "demo-3",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member10@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-11",
+    "name": "团队伙伴 4",
+    "parent": "demo-3",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member11@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-12",
+    "name": "团队伙伴 5",
+    "parent": "demo-3",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member12@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-13",
+    "name": "团队伙伴 6",
+    "parent": "demo-4",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member13@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-14",
+    "name": "团队伙伴 7",
+    "parent": "demo-4",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member14@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-15",
+    "name": "团队伙伴 8",
+    "parent": "demo-4",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member15@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-16",
+    "name": "团队伙伴 9",
+    "parent": "demo-5",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member16@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-17",
+    "name": "团队伙伴 10",
+    "parent": "demo-5",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member17@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-18",
+    "name": "团队伙伴 11",
+    "parent": "demo-5",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member18@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-19",
+    "name": "团队伙伴 12",
+    "parent": "demo-6",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member19@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-20",
+    "name": "团队伙伴 13",
+    "parent": "demo-6",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member20@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-21",
+    "name": "团队伙伴 14",
+    "parent": "demo-6",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member21@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-22",
+    "name": "团队伙伴 15",
+    "parent": "demo-7",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member22@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-23",
+    "name": "团队伙伴 16",
+    "parent": "demo-7",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member23@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-24",
+    "name": "团队伙伴 17",
+    "parent": "demo-7",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member24@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-25",
+    "name": "团队伙伴 18",
+    "parent": "demo-8",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member25@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-26",
+    "name": "团队伙伴 19",
+    "parent": "demo-8",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member26@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-27",
+    "name": "团队伙伴 20",
+    "parent": "demo-8",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member27@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-28",
+    "name": "团队伙伴 21",
+    "parent": "demo-9",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member28@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-29",
+    "name": "团队伙伴 22",
+    "parent": "",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member29@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-30",
+    "name": "团队伙伴 23",
+    "parent": "demo-29",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member30@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-31",
+    "name": "团队伙伴 24",
+    "parent": "demo-29",
+    "abstract": [
+      "产品与技术",
+      "深圳 · 研发中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member31@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-32",
+    "name": "团队伙伴 25",
+    "parent": "demo-29",
+    "abstract": [
+      "产品与技术",
+      "北京 · 产品中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member32@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  },
+  {
+    "node": "demo-33",
+    "name": "团队伙伴 26",
+    "parent": "demo-29",
+    "abstract": [
+      "产品与技术",
+      "上海 · 创新中心"
+    ],
+    "other_info": {
+      "角色": "团队成员",
+      "邮箱": "member33@example.com",
+      "备注": "这是一份虚构的演示数据。"
+    }
+  }
+]
